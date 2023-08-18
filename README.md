@@ -67,7 +67,7 @@ Prettier (VSCode extention)
 
 <img src="https://cdn.simpleicons.org/pycharm/true/" height="40" alt="Pycharm logo"  />
 
-Pycharm (projet Python uniquement)
+Pycharm (Python project only)
 
 <img src="https://cdn.simpleicons.org/robloxstudio/true/" height="40" alt="Roblox Studio logo"  />
 
