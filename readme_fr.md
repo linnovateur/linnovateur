@@ -1,4 +1,4 @@
-<!-- hello to you actualy seeing the RAW of the README.md
+<!-- bonjours a toi qui regarde le RAW de ce readme_fr.md
  ___
 |\  \
 \ \  \
@@ -10,9 +10,9 @@
 -->
 <div align="center">
 
-# Hello and welcome :wave:
+# Bonjour et bienvenue :wave:
 
-###### [cliquer ici pour la version française](./readme_fr.md)
+###### [Click here for the english version](./README.md)
 
 ---
 
@@ -25,13 +25,13 @@ dP""""Yb 88oodP  YbodP  `YbodP'   88       88 YY 88 888888
 
 ## A propos de moi
 
-Well I'm Linnovateur\_ or linnov if is too long for you
+Et bien je suis Linnovateur\_ ou linnov si c'est trop long pour vous
 
-I'm in France, in "Saône et Loir" (71), somewhere in the derpatement
+Je suis en France, en Saône et Loir (71), quelques part dans le département
 
-so I'm a dev wich curently learn JS to do some project like a Discord / Guilded bot
+Je suis un développeur qui apprend le JS pour faire des projets tel que un bot Discord / Guilded
 
-and sometime, I'm doing investigation
+Sinon parfois, je fais des enquêtes... (interminal mais tkt)
 
 ---
 
@@ -42,12 +42,12 @@ Y8   8P o.`Y8b 88""
 `YbodP' 8bodP' 888888
 -->
 
-## Wat I use
+## Ce que j'utilise
 
 </div>
 <details>
 
-<summary><h3>Tools</h3></summary>
+<summary><h3>Outils</h3></summary>
 
 <!--
 888888  dP"Yb   dP"Yb  88     .dP"Y8
@@ -71,7 +71,7 @@ Pycharm (projet Python uniquement)
 
 <img src="https://cdn.simpleicons.org/robloxstudio/true/" height="40" alt="Roblox Studio logo"  />
 
-Roblox Studio (Roblox game project only)
+Roblox Studio (projet de jeux roblox uniquement)
 
 <img src="https://cdn.simpleicons.org/bitwarden/true/" height="40" alt="Bitwarden logo"  />
 
@@ -79,17 +79,17 @@ Bitwarden
 
 <img src="https://cdn.simpleicons.org/gimp/true/" height="40" alt="Gimp logo"  />
 
-GIMP (for small UI / emote for some project)
+GIMP (pour des petit UI / emote pour des projets)
 
 <img src="https://cdn.simpleicons.org/github/true/" height="40" alt="Github logo"  />
 
-Github ~~(a little obvious)~~
+Github ~~(légèrement évident)~~
 
 </div>
 </details>
 
 <details>
-<summary><h3>Programming language that I learn and know</h3></summary>
+<summary><h3>Language de programmation que j'apprend et ce que je connais</h3></summary>
 
 <!--
 88""Yb  dP"Yb  88""Yb  dP""b8     88  dP 88b 88  dP"Yb  Yb        dP
@@ -110,19 +110,19 @@ Python (base)
 
 <img src="https://cdn.simpleicons.org/lua/true/" height="40" alt="Lua logo"  />
 
-Lua (base // roblox games experience only)
+Lua (base // expérience de jeux Roblox uniquement)
 
 <br />
 
-_inséré cobol.png_
+_insérer cobol.png_
 
-COBOL (Base, rare usage)
+COBOL (Base, utilisation rare)
 
 </div>
 </details>
 
 <details>
-<summary><h3>Language de programation / outils / technologie que je voudrais aprendre</h3></summary>
+<summary><h3>Language de programmation / outils / technologie que je voudrais apprendre</h3></summary>
 <!--
 88""Yb 88""Yb  dP"Yb   dP""b8     88   88 88b 88 88  dP 88b 88  dP"Yb  Yb        dP 
 88__dP 88__dP dP   Yb dP   `"     88   88 88Yb88 88odP  88Yb88 dP   Yb  Yb  db  dP  
@@ -154,17 +154,17 @@ Godot
 
 <img src="https://cdn.simpleicons.org/androidstudio/true/" height="40" alt="Android Studio logo"  />
 
-Android Studio (pour faire des aplication mobile)
+Android Studio (pour faire des applications mobile)
 
 <img src="https://cdn.simpleicons.org/minecraft/true/" height="40" alt="Minecraft logo"  />
 
-Minecraft (Create some Mods & Plugins)
+Minecraft (faire des mods & plugins)
 
 </div>
 </details>
 
 <details>
-<summary><h3>OS utiliser</h3></summary>
+<summary><h3>OS utilisé</h3></summary>
 
 <!--
  dP"Yb  .dP"Y8
@@ -181,7 +181,7 @@ Arch linux (Garuda Linux)
 
 <img src="https://cdn.simpleicons.org/windows/true/" height="40" alt="Microsoft Windaube (windows) 11 logo"  />
 
-Windows 11
+Windows 11 (fin' windaube je dirais)
 
 </div>
 </details>
@@ -204,13 +204,13 @@ Windows 11
 <summary><h3>Delta</h3></summary>
 <div align="center">
 
-To do simply Delta is my Discord bot
+Pour faire simple Delta est mon bot Discord
 
-currently these sources are private, but I intend to release the Open Source version (Delta.OP) which will contain some example commands, and the Delta base
+Actuellement ses sources sont privées, mais je compte sortir la version Open Source (Delta.OP) qui contiendra quelques exemples de commandes et la base de Delta
 
-The bot is made in JS (JavaScripts) with Discord.js (latest version) :sparkles:
+Le bot est en JavaScript avec Discord.js (dernière version) :sparkles:
 
-project status: in progress...
+Statut du projet : en cours...
 
 </div>
 </details>
@@ -219,15 +219,15 @@ project status: in progress...
 <summary><h3>Rouage BOT</h3></summary>
 <div align="center">
 
-To do simply, it was my discord bot but I gave up because I was late
+Pour faire simple c'était mon bot Discord mais que j'ai abandonné car j'avais pris du retard
 
-and because the base was caotic, I would see to make its source public, even I think it will not be the case
+Et car la base était chaotique, je verrais pour rendre ses sources publiques, même si je pense que ça ne sera pas le cas
 
-and also that I had problems with the discord bot GearBot (In french is give RouageBOT, and is the name of the project) and my bot confusion
+Et aussi que j'avais des problèmes avec le bot discord GearBot (= RouageBot en fr) de confusion
 
-the bot was made in JS (JavaScripts) and Discord.js v12
+Le bot étais fait également en JavaScript avec Discord.js v12
 
-project status: canceled
+Statut du projet : annulé
 
 </div>
 </details>
@@ -245,29 +245,25 @@ Yb      Yb   dP 88 Y88   88    dP__Yb  Yb        88
  YboodP  YbodP  88  Y8   88   dP""""Yb  YboodP   88
 -->
 
-To contact me, you can use these social media:
+Pour me contacter, vous pouvez utiliser ces réseaux :
 
 <img src="https://cdn.simpleicons.org/discord/true/" height="40" alt="Discord logo"  />
 
 ### [linnovateur\_](https://discord.com/users/813461736963309628)
 
-###### active, but I don't always accept friend requests
+###### (actif, mais j'accepte pas systématiquement les demande d'amis)
 
 <img src="https://cdn.simpleicons.org/guilded/true/" height="40" alt="Guilded logo"  />
 
 ### [u/linnovateur](https://www.guilded.gg/u/linnovateur)
 
-###### don't expect an immediate response!
+###### Ne vous attendez pas à une réponse immédiate !
 
 <img src="https://cdn.simpleicons.org/twitter/true/" height="40" alt="Twitter (X now) old logo"  /> <img src="https://cdn.simpleicons.org/x/true/" height="40" alt="X logo"  />
 
 ### [@Linnovateur\_](https://twitter.com/Linnovateur_)
 
-###### hope for a potentially quicker response?
-
-also note : if you think you must contacte my using french, you have wrong, I can understand english, is not because I'm French I don't Understand English, and don't use Google Translate, I will see if you do that
-
-and check the time in paris befor send message to estimate the time i will take to answer
+###### Espérez une réponse potentiellement plus rapide ?
 
 ---
 
