@@ -122,7 +122,7 @@ COBOL (Base, rare usage)
 </details>
 
 <details>
-<summary><h3>Language de programation / outils / technologie que je voudrais aprendre</h3></summary>
+<summary><h3>Programming language/tools/technology I would like to learn</h3></summary>
 <!--
 88""Yb 88""Yb  dP"Yb   dP""b8     88   88 88b 88 88  dP 88b 88  dP"Yb  Yb        dP 
 88__dP 88__dP dP   Yb dP   `"     88   88 88Yb88 88odP  88Yb88 dP   Yb  Yb  db  dP  
@@ -154,7 +154,7 @@ Godot
 
 <img src="https://cdn.simpleicons.org/androidstudio/true/" height="40" alt="Android Studio logo"  />
 
-Android Studio (pour faire des aplication mobile)
+Android Studio (To do some mobile app)
 
 <img src="https://cdn.simpleicons.org/minecraft/true/" height="40" alt="Minecraft logo"  />
 
@@ -164,7 +164,7 @@ Minecraft (Create some Mods & Plugins)
 </details>
 
 <details>
-<summary><h3>OS utiliser</h3></summary>
+<summary><h3>Used OS</h3></summary>
 
 <!--
  dP"Yb  .dP"Y8
@@ -190,7 +190,7 @@ Windows 11
 
 <div align="center">
 
-## Mes Projet
+## My Project
 
 <!--
 88""Yb 88""Yb  dP"Yb   88888 888888  dP""b8 888888
@@ -236,7 +236,7 @@ project status: canceled
 
 <div align="center">
 
-## Me contacter
+## Conact me
 
 <!--
  dP""b8  dP"Yb  88b 88 888888    db     dP""b8 888888
