@@ -23,7 +23,7 @@
 dP""""Yb 88oodP  YbodP  `YbodP'   88       88 YY 88 888888
 -->
 
-## A propos de moi
+## About me
 
 Well I'm Linnovateur\_ or linnov if is too long for you
 
