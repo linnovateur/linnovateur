@@ -114,7 +114,7 @@ Lua (base // roblox games experience only)
 
 <br />
 
-_inséré cobol.png_
+_insert cobol.png_
 
 COBOL (Base, rare usage)
 
