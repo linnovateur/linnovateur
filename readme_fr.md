@@ -31,7 +31,7 @@ Je suis en France, en Saône et Loir (71), quelques part dans le département
 
 Je suis un développeur qui apprend le JS pour faire des projets tel que un bot Discord / Guilded
 
-Sinon parfois, je fais des enquêtes... (interminal mais tkt)
+Sinon parfois, je fais des enquêtes... (interminables mais tkt - GBC 2023)
 
 ---
 
