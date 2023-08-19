@@ -57,33 +57,47 @@ Y8   8P o.`Y8b 88""
 -->
 
 <div align="center">
+<a href="https://code.visualstudio.com/">
 <img src="https://cdn.simpleicons.org/visualstudiocode/true" height="40" alt="Visual Studio Code logo"  />
 
 Visual Studio Code
+</a>
 
+<a href="https://prettier.io/">
 <img src="https://cdn.simpleicons.org/prettier/true" height="40" alt="Visual Studio Code logo"  />
 
 Prettier (VSCode extention)
+</a>
 
+<a href="https://www.jetbrains.com/pycharm/">
 <img src="https://cdn.simpleicons.org/pycharm/true/" height="40" alt="Pycharm logo"  />
 
 Pycharm (Python project only)
+</a>
 
+<a href="https://create.roblox.com/">
 <img src="https://cdn.simpleicons.org/robloxstudio/true/" height="40" alt="Roblox Studio logo"  />
 
 Roblox Studio (Roblox game project only)
+</a>
 
+<a href="https://bitwarden.com/">
 <img src="https://cdn.simpleicons.org/bitwarden/true/" height="40" alt="Bitwarden logo"  />
 
 Bitwarden
+</a>
 
+<a href="https://www.gimp.org/">
 <img src="https://cdn.simpleicons.org/gimp/true/" height="40" alt="Gimp logo"  />
 
 GIMP (for small UI / emote for some project)
+</a>
 
+<a href="https://github.com/">
 <img src="https://cdn.simpleicons.org/github/true/" height="40" alt="Github logo"  />
 
 Github ~~(a little obvious)~~
+</a>
 
 </div>
 </details>
@@ -148,13 +162,17 @@ MySQL
 
 C++
 
+<a href="https://godotengine.org/">
 <img src="https://cdn.simpleicons.org/godotengine/true/" height="40" alt="Godot logo"  />
 
 Godot
+</a>
 
+<a href="https://developer.android.com/studio">
 <img src="https://cdn.simpleicons.org/androidstudio/true/" height="40" alt="Android Studio logo"  />
 
 Android Studio (To do some mobile app)
+</a>
 
 <img src="https://cdn.simpleicons.org/minecraft/true/" height="40" alt="Minecraft logo"  />
 
@@ -177,7 +195,7 @@ Yb   dP o.`Y8b
 
 <img src="https://cdn.simpleicons.org/archlinux/true/" height="40" alt="Arch Linux logo"  />
 
-Arch linux (Garuda Linux)
+Arch linux [(Garuda Linux)](https://garudalinux.org/)
 
 <img src="https://cdn.simpleicons.org/windows/true/" height="40" alt="Microsoft Windaube (windows) 11 logo"  />
 
@@ -247,19 +265,25 @@ Yb      Yb   dP 88 Y88   88    dP__Yb  Yb        88
 
 To contact me, you can use these social media:
 
+<a href="https://discord.com/users/813461736963309628">
 <img src="https://cdn.simpleicons.org/discord/true/" height="40" alt="Discord logo"  />
+</a>
 
 ### [linnovateur\_](https://discord.com/users/813461736963309628)
 
 ###### active, but I don't always accept friend requests
 
+<a href="https://www.guilded.gg/u/linnovateur">
 <img src="https://cdn.simpleicons.org/guilded/true/" height="40" alt="Guilded logo"  />
+</a>
 
 ### [u/linnovateur](https://www.guilded.gg/u/linnovateur)
 
 ###### don't expect an immediate response!
 
+<a href="https://twitter.com/Linnovateur_">
 <img src="https://cdn.simpleicons.org/twitter/true/" height="40" alt="Twitter (X now) old logo"  /> <img src="https://cdn.simpleicons.org/x/true/" height="40" alt="X logo"  />
+</a>
 
 ### [@Linnovateur\_](https://twitter.com/Linnovateur_)
 
