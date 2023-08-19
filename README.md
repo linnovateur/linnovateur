@@ -42,7 +42,7 @@ Y8   8P o.`Y8b 88""
 `YbodP' 8bodP' 888888
 -->
 
-## Wat I use
+## What I use
 
 </div>
 <details>
