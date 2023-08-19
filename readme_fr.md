@@ -85,6 +85,11 @@ GIMP (pour des petit UI / emote pour des projets)
 
 Github ~~(légèrement évident)~~
 
+<img src="https://cdn.simpleicons.org/simpleicons/true/" height="40" alt="Simple Icon logo"  />
+
+Simple icons (pour les icon)
+
+
 </div>
 </details>
 
