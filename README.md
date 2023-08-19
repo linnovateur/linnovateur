@@ -27,11 +27,11 @@ dP""""Yb 88oodP  YbodP  `YbodP'   88       88 YY 88 888888
 
 Well I'm Linnovateur\_ or linnov if is too long for you
 
-I'm in France, in "Saône et Loir" (71), somewhere in the derpatement
+I'm in France, in "Saône et Loir" (71), somewhere in the departement
 
 so I'm a dev wich curently learn JS to do some project like a Discord / Guilded bot
 
-and sometime, I'm doing investigation
+and sometime, I'm doing investigation (that also never reach end -GBC 2023)
 
 ---
 
@@ -289,9 +289,9 @@ To contact me, you can use these social media:
 
 ###### hope for a potentially quicker response?
 
-also note : if you think you must contacte my using french, you have wrong, I can understand english, is not because I'm French I don't Understand English, and don't use Google Translate, I will see if you do that
+also note : if you think you must contact my using french, *you have wrong*, I can understand english, is not because I'm French I don't understand English, and don't use Google Translate, I will see if you do that
 
-and check the time in paris befor send message to estimate the time i will take to answer
+and check the time in paris befor send message to estimate the time I will take to answer
 
 ---
 
